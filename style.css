@@ -1,0 +1,44 @@
+.section{
+    width: 100%;
+}
+
+.section-text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-case{
+    color: white;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.case1{
+    width: 30%;
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.case2{
+    width: 30%;
+    background-color: rgba(247, 247, 31, 0.877);
+    border-radius: 10px;
+    padding: 20px;
+    color: black;
+}
+
+.case3{
+    width: 30%;
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.text-p1{
+    display: flex;
+    justify-content: space-between;
+}
